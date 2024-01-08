@@ -1,0 +1,31 @@
+#app {
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+  body {
+    min-width: 70%;
+    margin: 0 auto;
+  }
+
+.table-container {
+  display: flex;
+}
+
+.left {
+  flex: 1;
+  padding-right: 10px;
+}
+
+.right {
+  flex: 1;
+  padding-left: 10px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
